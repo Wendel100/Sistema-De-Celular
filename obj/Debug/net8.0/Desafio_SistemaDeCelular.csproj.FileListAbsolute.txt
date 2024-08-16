@@ -1,0 +1,14 @@
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\bin\Debug\net8.0\Desafio_SistemaDeCelular.exe
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\bin\Debug\net8.0\Desafio_SistemaDeCelular.deps.json
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\bin\Debug\net8.0\Desafio_SistemaDeCelular.runtimeconfig.json
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\bin\Debug\net8.0\Desafio_SistemaDeCelular.dll
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\bin\Debug\net8.0\Desafio_SistemaDeCelular.pdb
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.AssemblyInfoInputs.cache
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.AssemblyInfo.cs
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.dll
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\refint\Desafio_SistemaDeCelular.dll
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.pdb
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\Desafio_SistemaDeCelular.genruntimeconfig.cache
+C:\Users\darkr\Desktop\Desafio_SistemaDeCelular\obj\Debug\net8.0\ref\Desafio_SistemaDeCelular.dll
